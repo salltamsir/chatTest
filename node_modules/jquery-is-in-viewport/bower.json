@@ -1,0 +1,17 @@
+{
+  "name": "jquery-is-in-viewport",
+  "homepage": "https://github.com/frontid/jQueryIsInViewport",
+  "authors": [
+    "capynet <marcelo@front.id>"
+  ],
+  "description": "React when an element is in the viewport.",
+  "main": "isInViewport.jquery.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
